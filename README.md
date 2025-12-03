@@ -23,11 +23,11 @@ COVS models the end-to-end flow of a student election:
 
 ### ER Diagram
 
-![ER Diagram](ER Diagram.jpg)
+![ER Diagram](ER_Diagram.jpg)
 
 ### Relational Schema
 
-![Schema Diagram](Schema Diagram.jpg)
+![Schema Diagram](Schema_Diagram.jpg)
 
 **Core tables (high-level):**
 
