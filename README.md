@@ -1,4 +1,3 @@
-# College-Online-Voting-System
 # Campus Online Voting System (COVS)
 
 Database design for a secure, auditable **campus election system** built in MySQL.  
@@ -6,7 +5,7 @@ The focus of this project is on **schema design**, **constraints**, **triggers**
 
 ---
 
-## 🧭 Overview
+## Overview
 
 COVS models the end-to-end flow of a student election:
 
@@ -19,7 +18,7 @@ COVS models the end-to-end flow of a student election:
 
 ---
 
-## 📊 Data Model
+## Data Model
 
 ### ER Diagram
 
@@ -41,7 +40,7 @@ COVS models the end-to-end flow of a student election:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Role-based structure** – separates admins and student voters.
 - **Token-based voting** – each voter gets a single use ballot token per election.
